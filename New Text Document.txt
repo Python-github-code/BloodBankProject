@@ -1,0 +1,4 @@
+NOTE : admin's credentials
+
+Email : admin@bloodbank.com
+Password : admin
